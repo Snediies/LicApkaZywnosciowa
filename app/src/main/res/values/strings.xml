@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodAppNextTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="acitivity_main">Main</string>
+    <string name="user_informations">user_Informations</string>
+    <string name="activity_food_suggest">food_Suggest</string>
+    <string name="rezultat">rezultat</string>
+</resources>
